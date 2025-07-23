@@ -1,0 +1,5 @@
+first one is if selected any row (unit) and click on inactive or active ,after confirm the count of length is not update but action is performed after refresh then only count will be changes same inactive also.
+
+second one is if any row select click on disable row click on confirm error message will be display, for enable also.
+
+if disable/enable reviews success then related image will allso change
